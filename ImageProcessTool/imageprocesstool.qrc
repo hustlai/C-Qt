@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ImageProcessTool">
+        <file>Resources/img/backward.png</file>
+        <file>Resources/img/display.png</file>
+        <file>Resources/img/forward.png</file>
+        <file>Resources/img/scale.png</file>
+    </qresource>
+</RCC>
